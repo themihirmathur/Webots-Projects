@@ -1,4 +1,4 @@
-# Webots-Projects | Robotics Projects
+# Webots-Projects 🐞 Robotics Projects 🤖
 
 This repository contains various Webots simulation projects focused on different robotics applications. Each project includes a custom robot prototype and a Webots world configuration to demonstrate specific robotic behaviors and functionalities.
 
