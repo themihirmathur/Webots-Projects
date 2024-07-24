@@ -2,10 +2,6 @@
 
 This repository contains various Webots simulation projects focused on different robotics applications. Each project includes a custom robot prototype and a Webots world configuration to demonstrate specific robotic behaviors and functionalities.
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-
 ![00](https://github.com/user-attachments/assets/67d12311-cc3c-4b53-a7c6-257e74228c10)
 
 ## 📋 Table of Contents
